@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="keywords" content="refrigeracion transporte, thermo king aire acondicionado para pasaje, aire acondicionado de estacionamiento, transporte refrigerado thermo King">
-    <meta name="description" content="Venta de equipos de refrigeraci&oacute;n para transporte en Vanes, Camionetas, Camiones Medianos y Grandes. Contamos con equipos el&eacute;ctricos, acoplados, diesel, trailer y aire acondicionado de estacionamiento.">
+    <meta name="description" content="Venta de equipos de refrigeraci&oacute;n para transporte en Vanes, Camionetas, Camiones Medianos y Grandes. Contamos con equipos el&eacute;ctricos, acoplados, diésel, trailer y aire acondicionado de estacionamiento.">
     <meta name="date" content="Dec 26">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <!-- Stylesheets-->
@@ -80,9 +80,9 @@
                       <li>Direct Drive</li> <!-- listo -->
                       <li>Direct Drive Multi Temperatura</li> <!-- listo -->
                       <li>Mono Block</li> <!-- listo -->
-                      <li>Equipos Diesel</li> <!-- listo -->
-                      <li>Diesel Hibridos</li> <!-- listo -->
-                      <li>Diesel Multi Temperatura</li> <!-- pendiente -->
+                      <li>Equipos Diésel</li> <!-- listo -->
+                      <li>Diésel Hibridos</li> <!-- listo -->
+                      <li>Diésel Multi Temperatura</li> <!-- pendiente -->
                       <li>Tráiler</li> <!-- listo -->
                       <li>Aire Acondicionado de Estacionamiento</li> <!-- listo -->
                       <li>Caja Refrigerada para Moto</li> <!-- en proceso -->
@@ -330,10 +330,10 @@
                         </div>
                       </div>
 
-                      <!-- Equipos Diesel -->
+                      <!-- Equipos Diésel -->
                       <div>
                         <div class="inset-lg-left-60">
-                          <h3>Equipos Diesel</h3>
+                          <h3>Equipos Diésel</h3>
                             <div class="range range-xs-center">
                               <div class="cell-sm-6">
                                 <a class="thumbnail-classic" href="productos/HT-250_SP_ZIANT_II_2013.pdf" target="_self">
@@ -384,9 +384,9 @@
                         </div>
                       </div>
                       
-                      <div> <!-- listo - Diesel Hibridos -->
+                      <div> <!-- listo - Diésel Hibridos -->
                         <div class="inset-lg-left-60">
-                          <h3>Diesel Hibridos</h3>
+                          <h3>Diésel Hibridos</h3>
                             <div class="range range-xs-center">
                               <!-- 1 -->
                               <div class="cell-sm-6">
@@ -396,15 +396,15 @@
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-70DW GT</h6>
                                     </figcaption>
                                   </figure>
-                                  <p>Refrigerador para caja de 2.18 metros de largo.</p></a>
+                                  <p>Congelación para caja de 14 metros de largo.</p></a>
                               </div>
                             </div>
                         </div>
                       </div>
                       
-                      <div> <!-- pendiente - Diesel Multi Temperatura -->
+                      <div> <!-- pendiente - Diésel Multi Temperatura -->
                         <div class="inset-lg-left-60">
-                          <h3 style="color:red">Diesel Multi Temperatura (Pendiente)</h3>
+                          <h3 style="color:red">Diésel Multi Temperatura (Pendiente)</h3>
                             <div class="range range-xs-center">
                               <!-- 1 -->
                               <div class="cell-sm-6">
@@ -465,7 +465,7 @@
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">Refrigeración para moto</h6>
                                     </figcaption>
                                   </figure>
-                                  <p><!-- Aire Acondicionado El&eacute;ctrico para Tr&aacute;iler. --></p></a>
+                                  <p>Caja de 120 litros para moto con refrigeración y congelación.</p></a>
                               </div>
                           </div>
                         </div>
