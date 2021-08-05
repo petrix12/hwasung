@@ -9,7 +9,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="keywords" content="equipos refrigeracion transporte, Hwasung Thermo Mexico, refrigeracion transporte, thermo king, transporte refrigerado thermo King">
     <meta name="description" content="HWASUNG THERMO M&Eacute;XICO tiene como actividad principal la venta e instalaci&oacute;n de equipos de refrigeraci&oacute;n para el transporte, de larga vida &uacute;til y con costos de mantenimiento realmente bajos.">
+    <meta name="author" content="HWASUNG Thermo México" />
+    <meta name="robots" content="index"/>
     <meta name="date" content="Dec 26">
+
+    <meta property="fb:app_id" content="APPID">
+    <meta data-react-helmet="true" property="og:url" content="index.php"/>
+    <meta data-react-helmet="true" property="og:type" content="website"/>
+    <meta data-react-helmet="true" property="og:title" content="HWASUNG Thermo México"/>
+    <meta data-react-helmet="true" property="og:description" content="HWASUNG THERMO M&Eacute;XICO tiene como actividad principal la venta e instalaci&oacute;n de equipos de refrigeraci&oacute;n para el transporte, de larga vida &uacute;til y con costos de mantenimiento realmente bajos."/>
+    <meta data-react-helmet="true" property="og:image" content="https://1.bp.blogspot.com/-Go8g9eJdX8s/YQwI27PgzYI/AAAAAAAAmsM/O1BHp3_wyOMPyQwlTzoqzMvvWlc3WM14ACLcBGAsYHQ/s306/about-us-01-451x304.jpg" />
+
+    <meta data-react-helmet="true" property="twitter:title" content="HWASUNG Thermo México" />
+    <meta data-react-helmet="true" property="twitter:description" content="HWASUNG THERMO M&Eacute;XICO tiene como actividad principal la venta e instalaci&oacute;n de equipos de refrigeraci&oacute;n para el transporte, de larga vida &uacute;til y con costos de mantenimiento realmente bajos." />
+    <meta data-react-helmet="true" property="twitter:image:src" content="https://1.bp.blogspot.com/-Go8g9eJdX8s/YQwI27PgzYI/AAAAAAAAmsM/O1BHp3_wyOMPyQwlTzoqzMvvWlc3WM14ACLcBGAsYHQ/s306/about-us-01-451x304.jpg" />
+    <meta data-react-helmet="true" property="twitter:image" content="https://1.bp.blogspot.com/-Go8g9eJdX8s/YQwI27PgzYI/AAAAAAAAmsM/O1BHp3_wyOMPyQwlTzoqzMvvWlc3WM14ACLcBGAsYHQ/s306/about-us-01-451x304.jpg" />
+    <meta data-react-helmet="true" property="twitter:card" content="summary" />
+    <meta data-react-helmet="true" name="robots" content="noindex, nofollow" />
+
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Hind:400,300,700%7CMontserrat:400,700">
@@ -18,6 +35,7 @@
     <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <script src="js/html5shiv.min.js"></script>
 		<![endif]-->
+    <!-- https://1.bp.blogspot.com/-Go8g9eJdX8s/YQwI27PgzYI/AAAAAAAAmsM/O1BHp3_wyOMPyQwlTzoqzMvvWlc3WM14ACLcBGAsYHQ/s306/about-us-01-451x304.jpg -->
   </head>
   <body>
     <!-- Page-->
