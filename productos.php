@@ -120,86 +120,59 @@
                         <div class="inset-lg-left-60">
                           <h3>Direct Drive</h3>
                             <div class="range range-xs-center">
-                              <div class="cell-sm-6">
+                              <div class="cell-sm-6"> <!-- HT-050 MINI -->
                                 <a class="thumbnail-classic" href="productos/Series_HT-050.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT-050_MINI.jpg" alt="HT-050 MINI">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-050 MINI</h6>
                                     </figcaption>
                                   </figure>
-                                  <p>Refrigeraci&oacute;n para caja de 3.50 metros de largo.</p></a>
+                                  <p>Refrigeración para caja de 3.00 metros de largo.</p></a>
                               </div>
-                              <div class="cell-sm-6 offset-top-50 offset-sm-top-0">
+                              <div class="cell-sm-6 offset-top-50 offset-sm-top-0"> <!-- HT-050 -->
                                 <a class="thumbnail-classic" href="productos/Series_HT-050.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT-050.jpg" alt="HT-050">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-050</h6>
                                     </figcaption>
                                   </figure>
-                                  <p>Refrigaraci&oacute;n y Congelaci&oacute;n para caja de 3.50 mts. de largo.</p></a>
+                                  <p>Refrigeración para caja de 3.50 metros y congelación para caja de 2.30 metros de largo.</p></a>
                               </div>
-                              <div class="cell-sm-6 offset-top-50">
+                              <div class="cell-sm-6 offset-top-50"> <!-- HT-100 -->
                                 <a class="thumbnail-classic" href="productos/Series_HT-100.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT-100.jpg" alt="HT-100">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-100</h6>
                                     </figcaption>
                                   </figure>
-                                    <p>Refrigeraci&oacute;n para caja de 4.5 mts. y Congelaci&oacute;n para caja de 3.5 mts.</p></a>
+                                    <p>Refrigeración para caja de 5.00 metros y congelación para caja de 3.00 metros de largo.</p></a>
                               </div>
-                              <div class="cell-sm-6 offset-top-50">
+                              <div class="cell-sm-6 offset-top-50"> <!-- HT-250 -->
                                 <a class="thumbnail-classic" href="productos/Series_HT-250.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT-250.jpg" alt="HT-250">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250</h6>
                                     </figcaption>
                                   </figure>
-                                  <p>Refrigeraci&oacute;n para caja de 5.75 mts. y Congelaci&oacute;n para caja de 4.75 mts.</p></a>
-                              </div>
-                              <div class="cell-sm-6 offset-top-50">
+                                  <p>Refrigeración para caja de 6.00 metros y congelación para caja de 3.75 metros de largo.</p></a>
+                              </div> 
+                              <div class="cell-sm-6 offset-top-50"><!-- HT-350 A -->
                                 <a class="thumbnail-classic" href="productos/HT-350A_y_HT-700A.PDF" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT-350A.jpg" alt="HT-350 A">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-350 A</h6>
                                     </figcaption>
                                   </figure>
-                                    <p>Refrigeraci&oacute;n para caja de 6.25 mts. y Congelaci&oacute;n para caja de 4.75 mts.</p></a>
+                                    <p>Refrigeración para caja de 6.50 metros y congelación para caja de 4.15 metros de largo.</p></a>
                               </div>
-                              <div class="cell-sm-6 offset-top-50">
+                              <div class="cell-sm-6 offset-top-50"> <!-- HT-500 -->
                                 <a class="thumbnail-classic" href="productos/HT-500_II.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT-500.jpg" alt="HT-500">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-500</h6>
                                     </figcaption>
                                   </figure>
-                                    <p>Refrigeraci&oacute;n para caja de 7.70 mts. y Congelaci&oacute;n para caja de 6.50 mts.</p></a>
-                              </div>
-                              <div class="cell-sm-6 offset-top-50">
-                                <a class="thumbnail-classic" href="productos/Series_Mono-Block.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-100MB.jpg" alt="HT-100 MB">
-                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-100 MB</h6>
-                                    </figcaption>
-                                  </figure>
-                                    <p>Refrigeraci&oacute;n para caja de 4.5 mts. y Congelaci&oacute;n para caja de 3.5 mts.</p></a>
-                              </div>
-                              <div class="cell-sm-6 offset-top-50">
-                                <a class="thumbnail-classic" href="productos/Series_Mono-Block.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-250MB.jpg" alt="HT-250 MB">
-                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 MB</h6>
-                                    </figcaption>
-                                  </figure>
-                                    <p>Refrigeraci&oacute;n para caja de 5.75 mts. y Congelaci&oacute;n para caja de 4.75 mts.</p></a>
-                              </div>
-                              <div class="cell-sm-6 offset-top-50">
-                                <a class="thumbnail-classic" href="productos/Series_Mono-Block.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-500MB.jpg" alt="HT-500 MB">
-                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-500 MB</h6>
-                                    </figcaption>
-                                  </figure>
-                                    <p>Refrigeraci&oacute;n para caja de 7.70 mts. y Congelaci&oacute;n para caja de 6.50 mts.</p></a>
+                                    <p>Refrigeración para caja de 7.00 metros y congelación para caja de 5.00 metros de largo.</p></a>
                               </div>
                               <div class="cell-sm-6 offset-top-50">
                                 <a class="thumbnail-classic" href="productos/HT-350A_y_HT-700A.PDF" target="_self">
@@ -208,7 +181,7 @@
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-700 A</h6>
                                     </figcaption>
                                   </figure>
-                                    <p>Refrigeraci&oacute;n para caja de 8.5 mts. y Congelaci&oacute;n para caja de 6 mts.</p></a>
+                                    <p>Refrigeración para caja de 9.00 metros y congelación para caja de 5.50 metros de largo.</p></a>
                               </div>
                             </div>
                         </div>
@@ -250,13 +223,13 @@
                               </div>
                               <!-- 4 -->
                               <div class="cell-sm-6 offset-top-50">
-                                <a class="thumbnail-classic" href="productos/Multi Temperatura Direct Drive.pdf" target="_self">
+                                <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT 250 II Evaporator.jpg" alt="HT 250 II Evaporator">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT 250 II</h6>
                                     </figcaption>
                                   </figure>
-                                  <p>Evaporador para frezer para caja de 1.70 metros de largo.</p></a>
+                                  <p>Zona de refrigeración 2.50 metros | Zona de congelación 2.00 metros.</p></a>
                               </div>
                               <!-- 5 -->
                               <div class="cell-sm-6 offset-top-50">
@@ -270,23 +243,23 @@
                               </div>
                               <!-- 6 -->
                               <div class="cell-sm-6 offset-top-50">
-                                <a class="thumbnail-classic" href="productos/Multi Temperatura Direct Drive.pdf" target="_self">
+                                <a class="thumbnail-classic" href="productos/GEMINI.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT-250 Gemini.jpg" alt="HT-250 Gemini Condenser">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250</h6>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 Gemini</h6>
                                     </figcaption>
                                   </figure>
-                                    <p>Condensador para caja de 6.75 metros de largo.</p></a>
+                                    <p>Zona de refrigeración 6.00 metros | Zona de congelación 4.00 metros.</p></a>
                               </div>
                               <!-- 7 -->
                               <div class="cell-sm-6 offset-top-50">
-                                <a class="thumbnail-classic" href="productos/Multi Temperatura Direct Drive.pdf" target="_self">
+                                <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT-500W DTS.jpg" alt="HT-500W DTS">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-500W DTS</h6>
                                     </figcaption>
                                   </figure>
-                                    <p>Refrigeraci&oacute;n para caja de 6.65 mts. y Congelaci&oacute;n para caja de 4.1 mts.</p></a>
+                                    <p>Zona de refrigeración 3.50 metros | Zona de congelación 3.00 metros.</p></a>
                               </div>
                             </div>
                         </div>
@@ -304,7 +277,8 @@
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-100MB</h6>
                                     </figcaption>
                                   </figure>
-                                  <p>Refrigerador para caja de 5.20 metros de largo.</p></a>
+                                  <p>Refrigeración para caja de 5.00 metros y congelación para caja de 3.00 metros de largo.</p>
+                                </a>
                               </div>
                               <!-- 2 -->
                               <div class="cell-sm-6 offset-top-50 offset-sm-top-0">
@@ -314,7 +288,8 @@
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250MB</h6>
                                     </figcaption>
                                   </figure>
-                                  <p>Refrigerador para caja de 6.20 metros de largo.</p></a>
+                                  <p>Refrigeración para caja de 6.00 metros y congelación para caja de 3.75 metros de largo.</p>
+                                </a>
                               </div>
                               <!-- 3 -->
                               <div class="cell-sm-6 offset-top-50">
@@ -324,7 +299,8 @@
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-500MB</h6>
                                     </figcaption>
                                   </figure>
-                                    <p>Refrigerador para caja de 6.20 metros de largo.</p></a>
+                                    <p>Refrigeración para caja de 7.00 metros y congelación para caja de 5.00 metros de largo.</p>
+                                  </a>
                               </div>
                             </div>
                         </div>
@@ -371,15 +347,6 @@
                                   </figure>
                                     <p>Refrigeraci&oacute;n para caja de 14 mts.  y Congelaci&oacute;n para caja de 12 mts.</p></a>
                               </div>
-                              <div class="cell-sm-6 offset-top-50">
-                                <a class="thumbnail-classic" href="productos/HT-70DW-GT.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-70DW-GT.jpg" alt="HT-70 DW GT">
-                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-70 DW GT</h6>
-                                    </figcaption>
-                                  </figure>
-                                    <p>Refrigeraci&oacute;n para caja de 16 mts.  y Congelaci&oacute;n para caja de 14 mts.</p></a>
-                              </div>
                             </div>
                         </div>
                       </div>
@@ -388,15 +355,25 @@
                         <div class="inset-lg-left-60">
                           <h3>Diésel Hibridos</h3>
                             <div class="range range-xs-center">
-                              <!-- 1 -->
-                              <div class="cell-sm-6">
-                                <a class="thumbnail-classic" href="productos/HT-70DW GT.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-70DW GT.jpg" alt="HT-70DW GT">
+                              <div class="cell-sm-6 offset-top-50"> <!-- HT-70 DW GT -->
+                                <a class="thumbnail-classic" href="productos/HT-70DW-GT.pdf" target="_self">
+                                  <figure><img width="370" height="250" src="images/productos/HT-70DW-GT.jpg" alt="HT-70 DW GT">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-70DW GT</h6>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-70 DW GT</h6>
                                     </figcaption>
                                   </figure>
-                                  <p>Congelación para caja de 14 metros de largo.</p></a>
+                                    <p>Refrigeración para caja de 16.00 metros y congelación para caja de 14.00 metros de largo.</p>
+                                </a>
+                              </div>
+                              <div class="cell-sm-6 offset-top-50"> <!-- HT-40 DW GT -->
+                                <a class="thumbnail-classic" href="productos/HT-70DW-GT.pdf" target="_self">
+                                  <figure><img width="370" height="250" src="images/productos/HT-70DW-GT.jpg" alt="HT-40 DW GT">
+                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-40 DW GT</h6>
+                                    </figcaption>
+                                  </figure>
+                                    <p>Refrigeración para caja de 12.00 metros y congelación para caja de 9.00 metros de largo.</p>
+                                </a>
                               </div>
                             </div>
                         </div>
@@ -404,17 +381,67 @@
                       
                       <div> <!-- pendiente - Diésel Multi Temperatura -->
                         <div class="inset-lg-left-60">
-                          <h3 style="color:red">Diésel Multi Temperatura (Pendiente)</h3>
+                          <h3>Diésel Multi Temperatura</h3>
                             <div class="range range-xs-center">
-                              <!-- 1 -->
+                              <!-- 1 HT-250 SP DTS -->
                               <div class="cell-sm-6">
-                                <a class="thumbnail-classic" href="productos/HT-70DW GT.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-70DW GT.jpg" alt="HT-70DW GT">
+                                <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
+                                  <figure><img width="370" height="250" src="images/productos/HT-250 II Condenser.jpg" alt="HT-250 SP DTS">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-70DW GT</h6>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 SP DTS</h6>
                                     </figcaption>
                                   </figure>
-                                  <p>Refrigerador para caja de 2.18 metros de largo.</p></a>
+                                  <p>Zona de Refrigeración 3.5 metros | Zona de Congelación 3 metros.</p></a>
+                              </div>
+                              <!-- 2 HT-30 DW DTS -->
+                              <div class="cell-sm-6">
+                                <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
+                                  <figure><img width="370" height="250" src="images/productos/HT-30DW.jpg" alt="HT-30 DW DTS">
+                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-30 DW DTS</h6>
+                                    </figcaption>
+                                  </figure>
+                                  <p>Zona de Refrigeración 4.5 metros | Zona de Congelación 4 metros.</p></a>
+                              </div>
+                              <!-- 3 HT-50 DW DTS -->
+                              <div class="cell-sm-6">
+                                <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
+                                  <figure><img width="370" height="250" src="images/productos/HT-500W DTS.jpg" alt="HT-50 DW DTS">
+                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-50 DW DTS</h6>
+                                    </figcaption>
+                                  </figure>
+                                  <p>Zona de Refrigeración 5.5 metros | Zona de Congelación 5 metros.</p></a>
+                              </div>
+                              <!-- 4 HT-250 SP TWIN -->
+                              <div class="cell-sm-6">
+                                <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
+                                  <figure><img width="370" height="250" src="images/productos/HT-250SP.jpg" alt="HT-250 SP TWIN">
+                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 SP TWIN</h6>
+                                    </figcaption>
+                                  </figure>
+                                  <p>Zona de Refrigeración 2.0 metros | Zona de Congelación 6 metros.</p></a>
+                              </div>
+                              <!-- 5 HT-30 DW TWIN -->
+                              <div class="cell-sm-6">
+                                <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
+                                  <figure><img width="370" height="250" src="images/productos/HT-30DW.jpg" alt="HT-30 DW TWIN">
+                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-30 DW TWIN</h6>
+                                    </figcaption>
+                                  </figure>
+                                  <p>Zona de Refrigeración 3.0 metros | Zona de Congelación 8 metros.</p></a>
+                              </div>
+                              <!-- 6 HT-50 DW TWIN -->
+                              <div class="cell-sm-6">
+                                <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
+                                  <figure><img width="370" height="250" src="images/productos/HT-250MB.jpg" alt="HT-50 DW TWIN">
+                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-50 DW TWIN</h6>
+                                    </figcaption>
+                                  </figure>
+                                  <p>Zona de Refrigeración 4.0 metros | Zona de Congelación 10 metros.</p></a>
                               </div>
                             </div>
                         </div>
@@ -425,7 +452,7 @@
                           <h3>Tráiler</h3>
                             <div class="range range-xs-center">
                               <div class="cell-sm-6">
-                                <a class="thumbnail-classic" href="productos/TR-II.pdf" target="_self">
+                                <a class="thumbnail-classic" href="productos/TR-II 2021.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/TR-II.jpg" alt="TR-II">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">TR-II</h6>
