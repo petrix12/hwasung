@@ -191,57 +191,17 @@
                         <div class="inset-lg-left-60">
                           <h3>Direct Drive Multi Temperatura</h3>
                             <div class="range range-xs-center">
-                              <!-- 1 -->
+                              <!-- 1 HT-250 DTS -->
                               <div class="cell-sm-6">
-                                <a class="thumbnail-classic" href="productos/Multi Temperatura Direct Drive.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-250 II Condenser.jpg" alt="HT-250 II Condensador">
-                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 II</h6>
-                                    </figcaption>
-                                  </figure>
-                                  <p>Condensador para caja de 3.95 metros de largo.</p></a>
-                              </div>
-                              <!-- 2 -->
-                              <div class="cell-sm-6 offset-top-50 offset-sm-top-0">
-                                <a class="thumbnail-classic" href="productos/Multi Temperatura Direct Drive.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT 100 II Evaporator.jpg" alt="HT 100 II Evaporator">
-                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT 100 II</h6>
-                                    </figcaption>
-                                  </figure>
-                                  <p>Evaporador para frezer para caja de 1.68 metros de largo.</p></a>
-                              </div>
-                              <!-- 3 -->
-                              <div class="cell-sm-6 offset-top-50">
-                                <a class="thumbnail-classic" href="productos/Multi Temperatura Direct Drive.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-050 II Evaporator.jpg" alt="HT-050 II Evaporator">
-                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-050 II</h6>
-                                    </figcaption>
-                                  </figure>
-                                    <p>Evaporador para nevera para caja de 1.63 metros de largo.</p></a>
-                              </div>
-                              <!-- 4 -->
-                              <div class="cell-sm-6 offset-top-50">
                                 <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT 250 II Evaporator.jpg" alt="HT 250 II Evaporator">
+                                  <figure><img width="370" height="250" src="images/productos/HT-250 DTS.jpg" alt="HT-250 DTS">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT 250 II</h6>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 DTS</h6>
                                     </figcaption>
                                   </figure>
                                   <p>Zona de refrigeración 2.50 metros | Zona de congelación 2.00 metros.</p></a>
                               </div>
-                              <!-- 5 -->
-                              <div class="cell-sm-6 offset-top-50">
-                                <a class="thumbnail-classic" href="productos/Multi Temperatura Direct Drive.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-100 II Evaporator.jpg" alt="HT-100 II Evaporator">
-                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-100 II</h6>
-                                    </figcaption>
-                                  </figure>
-                                    <p>Evaporador para nevera para caja de 1.63 metros de largo.</p></a>
-                              </div>
-                              <!-- 6 -->
+                              <!-- 2 HT-250 Gemini -->
                               <div class="cell-sm-6 offset-top-50">
                                 <a class="thumbnail-classic" href="productos/GEMINI.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT-250 Gemini.jpg" alt="HT-250 Gemini Condenser">
@@ -254,9 +214,9 @@
                               <!-- 7 -->
                               <div class="cell-sm-6 offset-top-50">
                                 <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-500W DTS.jpg" alt="HT-500W DTS">
+                                  <figure><img width="370" height="250" src="images/productos/HT-500 DTS.jpg" alt="HT-500 DTS">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-500W DTS</h6>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-500 DTS</h6>
                                     </figcaption>
                                   </figure>
                                     <p>Zona de refrigeración 3.50 metros | Zona de congelación 3.00 metros.</p></a>
@@ -386,7 +346,7 @@
                               <!-- 1 HT-250 SP DTS -->
                               <div class="cell-sm-6">
                                 <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-250 II Condenser.jpg" alt="HT-250 SP DTS">
+                                  <figure><img width="370" height="250" src="images/productos/HT-250 SP DTS.png" alt="HT-250 SP DTS">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 SP DTS</h6>
                                     </figcaption>
@@ -396,7 +356,7 @@
                               <!-- 2 HT-30 DW DTS -->
                               <div class="cell-sm-6">
                                 <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-30DW.jpg" alt="HT-30 DW DTS">
+                                  <figure><img width="370" height="250" src="images/productos/HT-30 DW DTS.png" alt="HT-30 DW DTS">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-30 DW DTS</h6>
                                     </figcaption>
@@ -406,7 +366,7 @@
                               <!-- 3 HT-50 DW DTS -->
                               <div class="cell-sm-6">
                                 <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-500W DTS.jpg" alt="HT-50 DW DTS">
+                                  <figure><img width="370" height="250" src="images/productos/HT-50 DW DTS.png" alt="HT-50 DW DTS">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-50 DW DTS</h6>
                                     </figcaption>
@@ -416,7 +376,7 @@
                               <!-- 4 HT-250 SP TWIN -->
                               <div class="cell-sm-6">
                                 <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-250SP.jpg" alt="HT-250 SP TWIN">
+                                  <figure><img width="370" height="250" src="images/productos/HT-250 SP DTS.png" alt="HT-250 SP TWIN">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 SP TWIN</h6>
                                     </figcaption>
@@ -426,7 +386,7 @@
                               <!-- 5 HT-30 DW TWIN -->
                               <div class="cell-sm-6">
                                 <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-30DW.jpg" alt="HT-30 DW TWIN">
+                                  <figure><img width="370" height="250" src="images/productos/HT-30 DW DTS.png" alt="HT-30 DW TWIN">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-30 DW TWIN</h6>
                                     </figcaption>
@@ -436,7 +396,7 @@
                               <!-- 6 HT-50 DW TWIN -->
                               <div class="cell-sm-6">
                                 <a class="thumbnail-classic" href="productos/Double Temp. System_Hwasung Thermo.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-250MB.jpg" alt="HT-50 DW TWIN">
+                                  <figure><img width="370" height="250" src="images/productos/HT-50 DW DTS.png" alt="HT-50 DW TWIN">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-50 DW TWIN</h6>
                                     </figcaption>
