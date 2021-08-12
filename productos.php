@@ -206,7 +206,7 @@
                                 <a class="thumbnail-classic" href="productos/GEMINI.pdf" target="_self">
                                   <figure><img width="370" height="250" src="images/productos/HT-250 Gemini.jpg" alt="HT-250 Gemini Condenser">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 Gemini</h6>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 GEMINI</h6>
                                     </figcaption>
                                   </figure>
                                     <p>Zona de refrigeración 6.00 metros | Zona de congelación 4.00 metros.</p></a>
@@ -273,7 +273,7 @@
                             <div class="range range-xs-center">
                               <div class="cell-sm-6">
                                 <a class="thumbnail-classic" href="productos/HT-250_SP_ZIANT_II_2013.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-250SP.jpg" alt="HT-250 SP">
+                                  <figure><img width="370" height="250" src="images/productos/HT-250SP.png" alt="HT-250 SP">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 SP</h6>
                                     </figcaption>
@@ -291,7 +291,7 @@
                               </div>
                               <div class="cell-sm-6 offset-top-50">
                                 <a class="thumbnail-classic" href="productos/HT-50_DW_SUPER-COOL_2013.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-50DW.jpg" alt="HT-50 DW">
+                                  <figure><img width="370" height="250" src="images/productos/HT-50DW.png" alt="HT-50 DW">
                                     <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-50 DW</h6>
                                     </figcaption>
