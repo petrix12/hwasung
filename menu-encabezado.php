@@ -19,7 +19,7 @@
                       <li class="<?php if ($menu_activo==1) echo 'active'; ?>"><a href="index.php">Inicio</a></li>
                       <li class="<?php if ($menu_activo==2) echo 'active'; ?>"><a href="historia.php">Historia</a></li>
                       <li class="<?php if ($menu_activo==3) echo 'active'; ?>"><a href="productos.php">Productos</a></li>
-                      <li class="<?php if ($menu_activo==4) echo 'active'; ?>"><a href="Beneficios-y-Ventajas-Hwa-Sung-Thermo.pdf">Beneficios y Ventajas</a></li>
+                      <li class="<?php if ($menu_activo==4) echo 'active'; ?>"><a href="beneficios_y_ventajas_hwa_sung_thermo.pdf" target="_blank"><span style="text-transform:none">Beneficios y Ventajas</span></a></li>
 <?php /*                      
                       <li class="tabs-nav <?php if ($menu_activo==4) echo 'active'; ?>"><a href="#">Comparativos</a>
                       	<ul class="rd-navbar-dropdown">
