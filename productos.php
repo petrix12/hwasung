@@ -183,6 +183,16 @@
                                   </figure>
                                     <p>Refrigeración para caja de 9.00 metros y congelación para caja de 5.50 metros de largo.</p></a>
                               </div>
+                              <!-- 2 HT-250 Gemini -->
+                              <div class="cell-sm-6 offset-top-50">
+                                <a class="thumbnail-classic" href="productos/direct-drive-ht-250-gemini.pdf" target="_self">
+                                  <figure><img width="370" height="250" src="images/productos/HT-250 Gemini.jpg" alt="HT-250 Gemini Condenser">
+                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 GEMINI</h6>
+                                    </figcaption>
+                                  </figure>
+                                    <p>Zona de refrigeración 10.00 metros | Zona de congelación 8.00 metros.</p></a>
+                              </div>
                             </div>
                         </div>
                       </div>
