@@ -209,17 +209,8 @@
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 DTS</h6>
                                     </figcaption>
                                   </figure>
-                                  <p>Zona de refrigeración 2.50 metros | Zona de congelación 2.00 metros.</p></a>
-                              </div>
-                              <!-- 2 HT-250 Gemini -->
-                              <div class="cell-sm-6 offset-top-50">
-                                <a class="thumbnail-classic" href="productos/GEMINI.pdf" target="_self">
-                                  <figure><img width="370" height="250" src="images/productos/HT-250 Gemini.jpg" alt="HT-250 Gemini Condenser">
-                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
-                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 GEMINI</h6>
-                                    </figcaption>
-                                  </figure>
-                                    <p>Zona de refrigeración 6.00 metros | Zona de congelación 4.00 metros.</p></a>
+                                  <p>Zona de refrigeración 2.50 metros | Zona de congelación 2.00 metros.</p>
+                                </a>
                               </div>
                               <!-- 7 -->
                               <div class="cell-sm-6 offset-top-50">
@@ -229,7 +220,19 @@
                                       <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-500 DTS</h6>
                                     </figcaption>
                                   </figure>
-                                    <p>Zona de refrigeración 3.50 metros | Zona de congelación 3.00 metros.</p></a>
+                                  <p>Zona de refrigeración 3.50 metros | Zona de congelación 3.00 metros.</p>
+                                </a>
+                              </div>
+                              <!-- 2 HT-250 Gemini -->
+                              <div class="cell-sm-6 offset-top-50">
+                                <a class="thumbnail-classic" href="productos/direct-drive-ht-250-gemini.pdf" target="_self">
+                                  <figure><img width="370" height="250" src="images/productos/HT-250 Gemini.jpg" alt="HT-250 Gemini Condenser">
+                                    <figcaption class="thumbnail-classic-caption text-center"><span class="icon icon-xxs fa-arrow-right"></span>
+                                      <h6 class="thumbnail-classic-title offset-top-0 text-uppercase text-light">HT-250 GEMINI</h6>
+                                    </figcaption>
+                                  </figure>
+                                  <p>Zona de refrigeración 6.00 metros | Zona de congelación 4.00 metros.</p>
+                                </a>
                               </div>
                             </div>
                         </div>
